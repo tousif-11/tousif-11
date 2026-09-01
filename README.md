@@ -6,7 +6,7 @@
 - 📫 How to reach me: ajtousif71@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding
-Hi, I'm Al Jahan Tousif, a passionate Full Stack Developer focused on building modern, responsive, and scalable web applications. I enjoy creating clean, user-friendly interfaces, developing secure and efficient backends, managing databases, solving complex problems, and continuously learning new technologies to improve my development skills and build impactful digital solutions.
+- About me: Hi, I'm Al Jahan Tousif, a passionate Full Stack Developer focused on building modern, responsive, and scalable web applications. I enjoy creating clean, user-friendly interfaces, developing secure and efficient backends, managing databases, solving complex problems, and continuously learning new technologies to improve my development skills and build impactful digital solutions.
 
 
 
