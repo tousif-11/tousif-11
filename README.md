@@ -1,71 +1,131 @@
- Hi there 👋
-- 🔭 I’m currently working on Web Development Project
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on web Development
-- 💬 Ask me about Full Stack Development
-- 📫 How to reach me: ajtousif71@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love coding
-- About me: Hi, I'm Al Jahan Tousif, a passionate Full Stack Developer focused on building modern, responsive, and scalable web applications. I enjoy creating clean, user-friendly interfaces, developing secure and efficient backends, managing databases, solving complex problems, and continuously learning new technologies to improve my development skills and build impactful digital solutions.
+# Hi there, I'm Al Jahan Tousif 👋
 
+### Full Stack Developer | Frontend & Backend Developer
 
-## 🌐 Socials
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/ajtousif)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aj.towshif)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ajtowshif/?hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-jahan-tousif-b2b659397/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tousif019)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@WinDailyHub-l8v)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajtousif71@gmail.com)
+I'm a passionate Full Stack Developer focused on building modern, responsive, scalable, and user-friendly web applications.
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=tousif-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tousif-11&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=tousif-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=tousif-11&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=tousif-11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+I enjoy turning ideas into functional digital products — from designing clean frontend interfaces to developing efficient backend systems and working with databases.
 
 ---
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=tousif-11&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Web Development Projects**
+- 🌱 Currently learning **TypeScript**
+- 💼 Interested in **Full Stack Web Development**
+- 🤝 Open to collaborating on **Web Development Projects**
+- 💬 Ask me about **Frontend, Backend & Full Stack Development**
+- ⚡ I enjoy **coding, learning, and solving problems**
+- 📍 Based in **Bangladesh**
+
+My goal is to continuously improve my development skills and build reliable, scalable, and impactful web applications.
+
+---
+
+## 🌐 Connect With Me
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtousif)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aj.towshif)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajtowshif/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-jahan-tousif-b2b659397/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tousif019)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@WinDailyHub-l8v)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajtousif71@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Tools & Platforms
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=tousif-11&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tousif-11&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tousif-11&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tousif-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## ✍️ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Top Contributed Repository
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=tousif-11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tousif-11&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### 💡 Always Learning. Always Building. Always Improving.
+
+**Thanks for visiting my profile! 🚀**
