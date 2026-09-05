@@ -8,20 +8,6 @@ I enjoy turning ideas into functional digital products — from designing clean 
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **Web Development Projects**
-- 🌱 Currently learning **TypeScript**
-- 💼 Interested in **Full Stack Web Development**
-- 🤝 Open to collaborating on **Web Development Projects**
-- 💬 Ask me about **Frontend, Backend & Full Stack Development**
-- ⚡ I enjoy **coding, learning, and solving problems**
-- 📍 Based in **Bangladesh**
-
-My goal is to continuously improve my development skills and build reliable, scalable, and impactful web applications.
-
----
-
 ## 🌐 Connect With Me
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtousif)
@@ -62,6 +48,20 @@ My goal is to continuously improve my development skills and build reliable, sca
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Web Development Projects**
+- 🌱 Currently learning **TypeScript**
+- 💼 Interested in **Full Stack Web Development**
+- 🤝 Open to collaborating on **Web Development Projects**
+- 💬 Ask me about **Frontend, Backend & Full Stack Development**
+- ⚡ I enjoy **coding, learning, and solving problems**
+- 📍 Based in **Bangladesh**
+
+My goal is to continuously improve my development skills and build reliable, scalable, and impactful web applications.
 
 ---
 
