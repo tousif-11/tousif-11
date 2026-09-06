@@ -8,12 +8,12 @@ I enjoy turning ideas into functional digital products — from designing clean 
 
 ---
 
-## 🌐 Connect With Me
+ 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-jahan-tousif-b2b659397/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtousif)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aj.towshif)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajtowshif/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-jahan-tousif-b2b659397/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tousif019)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@WinDailyHub-l8v)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajtousif71@gmail.com)
@@ -65,7 +65,7 @@ My goal is to continuously improve my development skills and build reliable, sca
 
 ---
 
-## 📊 GitHub Statistics
+ 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=tousif-11&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
@@ -82,6 +82,6 @@ My goal is to continuously improve my development skills and build reliable, sca
 ---
 
 
-### 💡 Always Learning. Always Building. Always Improving.
+ 💡  Always Learning. Always Building. Always Improving.
 
 **Thanks for visiting my profile! 🚀**
