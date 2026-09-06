@@ -64,24 +64,25 @@ I enjoy turning ideas into functional digital products — from designing clean 
 My goal is to continuously improve my development skills and build reliable, scalable, and impactful web applications.
 
 ---
+## 📊 GitHub Stats
 
- 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=tousif-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=tousif-11&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=tousif-11&theme=tokyonight&hide_border=false)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tousif-11&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=tousif-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tousif-11&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=tousif-11&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=tousif-11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
+[![Visitor Count](https://komarev.com/ghpvc/?username=tousif-11&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- 💡  Always Learning. Always Building. Always Improving.
-
-**Thanks for visiting my profile! 🚀**
