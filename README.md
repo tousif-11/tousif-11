@@ -8,6 +8,18 @@ I enjoy turning ideas into functional digital products — from designing clean 
 
 ---
 
+ 👨‍💻 About Me
+
+- 🔭 Currently working on **Web Development Projects**
+- 🌱 Currently learning **TypeScript**
+- 💼 Interested in **Full Stack Web Development**
+- 🤝 Open to collaborating on **Web Development Projects**
+- 💬 Ask me about **Frontend, Backend & Full Stack Development**
+- ⚡ I enjoy **coding, learning, and solving problems**
+- 📍 Based in **Bangladesh**
+
+---
+
  🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-jahan-tousif-b2b659397/)
@@ -51,19 +63,6 @@ I enjoy turning ideas into functional digital products — from designing clean 
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **Web Development Projects**
-- 🌱 Currently learning **TypeScript**
-- 💼 Interested in **Full Stack Web Development**
-- 🤝 Open to collaborating on **Web Development Projects**
-- 💬 Ask me about **Frontend, Backend & Full Stack Development**
-- ⚡ I enjoy **coding, learning, and solving problems**
-- 📍 Based in **Bangladesh**
-
-My goal is to continuously improve my development skills and build reliable, scalable, and impactful web applications.
-
----
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=tousif-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
