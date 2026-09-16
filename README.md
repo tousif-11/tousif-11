@@ -6,17 +6,6 @@ I'm a passionate Full Stack Developer focused on building modern, responsive, sc
 
 I enjoy turning ideas into functional digital products — from designing clean frontend interfaces to developing efficient backend systems and working with databases.
 
----
-
- 👨‍💻 About Me
-
-- 🔭 Currently working on **Web Development Projects**
-- 🌱 Currently learning **TypeScript**
-- 💼 Interested in **Full Stack Web Development**
-- 🤝 Open to collaborating on **Web Development Projects**
-- 💬 Ask me about **Frontend, Backend & Full Stack Development**
-- ⚡ I enjoy **coding, learning, and solving problems**
-- 📍 Based in **Bangladesh**
 
 ---
 
