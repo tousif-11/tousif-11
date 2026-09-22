@@ -52,7 +52,7 @@ I enjoy turning ideas into functional digital products — from designing clean 
 
 ---
 
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=tousif-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
