@@ -1,6 +1,6 @@
-# Hi there, I'm Al Jahan Tousif 👋
+# Hi there, I'm Al Jahan Tousif 
 
-### Full Stack Developer | Frontend & Backend Developer
+### Full Stack Developer | Frontend & Backend Developer | JavaScript Experts
 
 I'm a passionate Full Stack Developer focused on building modern, responsive, scalable, and user-friendly web applications.
 
@@ -60,11 +60,6 @@ I enjoy turning ideas into functional digital products — from designing clean 
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=tousif-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=tousif-11&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=tousif-11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
