@@ -1,6 +1,6 @@
 # Hi there, I'm Al Jahan Tousif 
 
-### Full Stack Developer | Frontend & Backend Developer | JavaScript Experts
+### Full Stack Developer & JavaScript Experts
 
 
 ---
